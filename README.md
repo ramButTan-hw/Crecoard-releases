@@ -1,0 +1,1 @@
+# Crecoard - desktop app installer
