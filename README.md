@@ -9,3 +9,7 @@
 - OS notifications are now on time
 - background and tray running
 - launch on start up options
+
+### v0.3.0
+- fixed youtube playlist imports
+- new tutorial steps
